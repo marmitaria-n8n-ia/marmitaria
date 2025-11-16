@@ -11,8 +11,13 @@ Links Importantes:
 
 --------
 
+- Link de Acesso ao Bot no Telegram: https://t.me/Marmitaria_restaurante_bot
+
+--------
+
 Dashboard de Acompanhamento (Opcional):
 
 - Link: https://marmitaria.lovable.app
+
 
 --------
