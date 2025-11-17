@@ -242,3 +242,29 @@ ________________________________________
 9.	Ao usar tool, não repetir texto da própria tool
 
 ________________________________________
+
+📊 Dashboard Operacional — Lovable
+
+Foi criado um dashboard público para visualização dos dados gerados pela automação.
+
+Link: https://marmitaria.lovable.app/
+
+O dashboard apresenta:
+
+- Total de pedidos por status;
+- Pedidos por dia;
+- Horário de pico;
+- Quantidade de mensagens processadas;
+- Análise de sentimentos;
+- Conversas por usuário;
+- Tempo de resposta da IA;
+- Evolução da operação em tempo real;
+
+Objetivo:
+
+Fornecer uma visão executiva da operação da marmitaria, permitindo:
+
+- tomada de decisões;
+- análise de crescimento;
+- acompanhamento de volume;
+- monitoramento de performance da IA;
